@@ -20,7 +20,7 @@ A full-stack blog application built with \*\*C#, Blazor, and Supabase\*\*.
 
 \## Backend
 
-The backend code for APIs and database is here: \[Backend Repository](https://github.com/PradeepRaoM/Blog\_app\_Backend)
+The backend code for APIs and database is here: \[Backend Repository](https://github.com/PradeepRaoM/Blog_app_Backend)
 
 
 
